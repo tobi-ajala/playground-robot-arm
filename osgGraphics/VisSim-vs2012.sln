@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "raaRobotBuilder-vs2012", "raaRobotBuilder-vs2012\raaRobotBuilder-vs2012.vcxproj", "{F2AC4E43-1DA5-439A-9C49-07C21EE59BE2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "raaRobotController-vs2012", "raaRobotController-vs2012\raaRobotController-vs2012.vcxproj", "{63E7EB83-8D5F-4114-81DF-75F8AE958479}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "osgHelloWorld", "osgHelloWorld\osgHelloWorld.vcxproj", "{920A1E8D-9917-4A5F-BD8A-91081AC638DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2AC4E43-1DA5-439A-9C49-07C21EE59BE2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F2AC4E43-1DA5-439A-9C49-07C21EE59BE2}.Debug|Win32.Build.0 = Debug|Win32
+		{F2AC4E43-1DA5-439A-9C49-07C21EE59BE2}.Release|Win32.ActiveCfg = Release|Win32
+		{F2AC4E43-1DA5-439A-9C49-07C21EE59BE2}.Release|Win32.Build.0 = Release|Win32
+		{63E7EB83-8D5F-4114-81DF-75F8AE958479}.Debug|Win32.ActiveCfg = Debug|Win32
+		{63E7EB83-8D5F-4114-81DF-75F8AE958479}.Debug|Win32.Build.0 = Debug|Win32
+		{63E7EB83-8D5F-4114-81DF-75F8AE958479}.Release|Win32.ActiveCfg = Release|Win32
+		{63E7EB83-8D5F-4114-81DF-75F8AE958479}.Release|Win32.Build.0 = Release|Win32
+		{920A1E8D-9917-4A5F-BD8A-91081AC638DF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{920A1E8D-9917-4A5F-BD8A-91081AC638DF}.Debug|Win32.Build.0 = Debug|Win32
+		{920A1E8D-9917-4A5F-BD8A-91081AC638DF}.Release|Win32.ActiveCfg = Release|Win32
+		{920A1E8D-9917-4A5F-BD8A-91081AC638DF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

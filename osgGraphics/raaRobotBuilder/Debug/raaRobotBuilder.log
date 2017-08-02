@@ -1,0 +1,34 @@
+﻿Build started 15/09/2010 17:28:08.
+Project "C:\mscVisSim\raaRobotBuilder\raaRobotBuilder.vcxproj" on node 2 (build target(s)).
+InitializeBuildStatus:
+  Creating "Debug\raaRobotBuilder.unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  All outputs are up-to-date.
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\raaRobotBuilder-vs2010.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+  stdafx.cpp
+  All outputs are up-to-date.
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\raaRobotBuilder-vs2010.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt raaRobotBuilder.cpp
+  raaRobotBuilder.cpp
+ManifestResourceCompile:
+  C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\raaRobotBuilder-vs2010.exe.embed.manifest.res" Debug\raaRobotBuilder-vs2010_manifest.rc 
+Link:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\mscVisSim\Debug\raaRobotBuilder-vs2010.exe" /INCREMENTAL /NOLOGO osgd.lib osgViewerd.lib osgDBd.lib osgUtild.lib osgGAd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\raaRobotBuilder-vs2010.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\mscVisSim\Debug\raaRobotBuilder-vs2010.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"C:\mscVisSim\Debug\raaRobotBuilder-vs2010.lib" /MACHINE:X86 "Debug\raaRobotBuilder-vs2010.exe.embed.manifest.res"
+  Debug\raaRobotBuilder.obj
+  Debug\stdafx.obj
+  LINK : program database C:\mscVisSim\Debug\raaRobotBuilder-vs2010.pdb missing; performing full link
+Manifest:
+  C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\raaRobotBuilder-vs2010.exe.embed.manifest" /manifest "Debug\raaRobotBuilder-vs2010.exe.intermediate.manifest"
+  C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\raaRobotBuilder-vs2010.exe.embed.manifest.res" Debug\raaRobotBuilder-vs2010_manifest.rc 
+LinkEmbedManifest:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\mscVisSim\Debug\raaRobotBuilder-vs2010.exe" /INCREMENTAL /NOLOGO osgd.lib osgViewerd.lib osgDBd.lib osgUtild.lib osgGAd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\raaRobotBuilder-vs2010.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\mscVisSim\Debug\raaRobotBuilder-vs2010.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"C:\mscVisSim\Debug\raaRobotBuilder-vs2010.lib" /MACHINE:X86 "Debug\raaRobotBuilder-vs2010.exe.embed.manifest.res"
+  Debug\raaRobotBuilder.obj
+  Debug\stdafx.obj
+  raaRobotBuilder.vcxproj -> C:\mscVisSim\Debug\raaRobotBuilder-vs2010.exe
+FinalizeBuildStatus:
+  Deleting file "Debug\raaRobotBuilder.unsuccessfulbuild".
+  Touching "Debug\raaRobotBuilder.lastbuildstate".
+Done Building Project "C:\mscVisSim\raaRobotBuilder\raaRobotBuilder.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:09.79

@@ -1,0 +1,4 @@
+﻿  raaRobotBuilder.cpp
+  LINK : ..\OpenSceneGraph-vs2012\bin\raaRobotBuilder-vs2012.exe not found or not built by the last incremental link; performing full link
+  raaRobotBuilder-vs2012.vcxproj -> \\Mac\Home\Documents\Visual Studio 2015\Libraries\osgGraphics\raaRobotBuilder-vs2012\..\OpenSceneGraph-vs2012\bin\raaRobotBuilder-vs2012.exe
+  raaRobotBuilder-vs2012.vcxproj -> ..\OpenSceneGraph-vs2012\bin\raaRobotBuilder-vs2012.pdb (Full PDB)

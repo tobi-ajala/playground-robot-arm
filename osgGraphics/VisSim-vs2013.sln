@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "raaOpenGLApp-vs2013", "raaOpenGLApp-vs2013\raaOpenGLApp-vs2013.vcxproj", "{CDFA32D2-3A58-45E7-81C3-B832F30A1995}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "raaRobotBuilder-vs2013", "raaRobotBuilder-vs2013\raaRobotBuilder-vs2013.vcxproj", "{1522F459-7A28-4D02-BEE8-2B14E96B8A36}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "raaRobotController-vs2013", "raaRobotController-vs2013\raaRobotController-vs2013.vcxproj", "{8EACCBF5-DEDF-4148-AD93-64AAB2059D8D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "osgHelloWorld", "osgHelloWorld\osgHelloWorld.vcxproj", "{920A1E8D-9917-4A5F-BD8A-91081AC638DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDFA32D2-3A58-45E7-81C3-B832F30A1995}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CDFA32D2-3A58-45E7-81C3-B832F30A1995}.Debug|Win32.Build.0 = Debug|Win32
+		{CDFA32D2-3A58-45E7-81C3-B832F30A1995}.Release|Win32.ActiveCfg = Release|Win32
+		{CDFA32D2-3A58-45E7-81C3-B832F30A1995}.Release|Win32.Build.0 = Release|Win32
+		{1522F459-7A28-4D02-BEE8-2B14E96B8A36}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1522F459-7A28-4D02-BEE8-2B14E96B8A36}.Debug|Win32.Build.0 = Debug|Win32
+		{1522F459-7A28-4D02-BEE8-2B14E96B8A36}.Release|Win32.ActiveCfg = Release|Win32
+		{1522F459-7A28-4D02-BEE8-2B14E96B8A36}.Release|Win32.Build.0 = Release|Win32
+		{8EACCBF5-DEDF-4148-AD93-64AAB2059D8D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8EACCBF5-DEDF-4148-AD93-64AAB2059D8D}.Debug|Win32.Build.0 = Debug|Win32
+		{8EACCBF5-DEDF-4148-AD93-64AAB2059D8D}.Release|Win32.ActiveCfg = Release|Win32
+		{8EACCBF5-DEDF-4148-AD93-64AAB2059D8D}.Release|Win32.Build.0 = Release|Win32
+		{920A1E8D-9917-4A5F-BD8A-91081AC638DF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{920A1E8D-9917-4A5F-BD8A-91081AC638DF}.Debug|Win32.Build.0 = Debug|Win32
+		{920A1E8D-9917-4A5F-BD8A-91081AC638DF}.Release|Win32.ActiveCfg = Release|Win32
+		{920A1E8D-9917-4A5F-BD8A-91081AC638DF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
